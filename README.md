@@ -25,4 +25,6 @@ Run the 'nodemon' command in the terminal at the project path so that the server
 
 Starter code provided by curriculum
 
+[Resource to help with many-to-many relationship code establishment](https://sequelize.org/docs/v6/advanced-association-concepts/advanced-many-to-many/)
+
     
